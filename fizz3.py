@@ -1,4 +1,4 @@
-# Interactive python 2 client for fizzbot
+# Interactive python client for fizzbot
 
 import json
 import urllib.request
