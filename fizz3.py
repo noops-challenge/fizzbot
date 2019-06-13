@@ -4,7 +4,7 @@ import json
 import urllib.request
 import urllib.error
 
-domain = 'http://localhost:3004'
+domain = 'https://api.noopschallenge.com'
 
 def print_sep(): print('----------------------------------------------------------------------')
 
