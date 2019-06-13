@@ -19,7 +19,7 @@ We don't have time for slowpokes around here. Fizzbot will grade you on how fast
 
 Fizzbot will give you a series of questions. Solve each one by GETting the question from the provided url and then POSTing the answer back to the same url.
 
-Fizzbot will give you a 200 response if you are correct, and a 400 response if you need to try again. [Learn more about HTTP status codes(https://developer.mozilla.org/en-US/docs/Web/HTTP/Status).
+Fizzbot will give you a 200 response if you are correct, and a 400 response if you need to try again. [Learn more about HTTP status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status).
 
 Answering a question correctly will give you the path to the next question. Once you answer all of the questions correctly, Fizzbot will grade your performance. You can always try again to get a better score.
 
