@@ -3,7 +3,7 @@
 import json
 import urllib2
 
-domain = 'http://localhost:3004'
+domain = 'https://api.noopschallenge.com'
 
 def print_sep(): print('----------------------------------------------------------------------')
 
